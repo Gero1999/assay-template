@@ -1,6 +1,6 @@
 {
-    "assay_name": "Name of the file",
-    "date": "Date of sequencing",
-    "owner": "Who performed the experiment?",
-    "short_desc": "Provide a short summary of the experiment"
+    "assay_name": "AssayID_keyword_2023-10-25",
+    "date": "25-10-2023",
+    "owner": "Experiment author",
+    "short_desc": "Here you should include all data relevant description"
 }
